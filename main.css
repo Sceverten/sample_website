@@ -1,7 +1,8 @@
-.nav-menu {
+  .nav-menu {
     text-align: right;
+    text-decoration: none;
   }
   .nav-spacing {
-    margin: 0 50px 0 0;
+    margin: 0 0 0 50px;
   }
   
